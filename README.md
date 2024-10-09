@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F9DAE&center=true&width=550&lines=Hi%2C+I'm+Rafael+Borges!+Welcome+to+my+GitHub.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F9DAE&center=true&width=550&lines=Hi%2C+I'm+Rafael+Borges!+Welcome+to+my+GitHub." alt="Typing SVG">
+  </a>
+</p>
+
  👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-borges-rocha/)](https://www.linkedin.com/in/rafael-borges-rocha)
 ![Profile Views](https://komarev.com/ghpvc/?username=rborgesr)
