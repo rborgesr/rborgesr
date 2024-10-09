@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/rafael-borges-rocha/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1ZI2VB5SMOxKgO2UF7inEDzv2B1wBVcQE/view?usp=share_link">
+  <a href="">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Badge"/>
   </a>
 </p>
