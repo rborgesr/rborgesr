@@ -4,9 +4,14 @@
   </a>
 </p>
 
- 👋
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-borges-rocha/)](https://www.linkedin.com/in/rafael-borges-rocha)
-![Profile Views](https://komarev.com/ghpvc/?username=rborgesr)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-borges-rocha/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rborgesr" alt="Profile Views">
+</p>
+
+
 
 <!--
 **rborgesr/rborgesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
