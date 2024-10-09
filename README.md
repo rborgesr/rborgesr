@@ -1,4 +1,4 @@
-## Hi, I'm Rafael Borges! Welcome to my GitHub.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4DC383&width=550&lines=Hi%2C+I'm+Rafael+Borges!+Welcome+to+my+GitHub)](https://git.io/typing-svg)
  👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-borges-rocha/)](https://www.linkedin.com/in/rafael-borges-rocha)
 ![Profile Views](https://komarev.com/ghpvc/?username=rborgesr)
