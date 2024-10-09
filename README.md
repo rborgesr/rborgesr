@@ -1,6 +1,7 @@
 ## Hi, I'm Rafael Borges! Welcome to my GitHub.
  👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-borges-rocha/)](https://www.linkedin.com/in/rafael-borges-rocha)
+![Profile Views](https://komarev.com/ghpvc/?username=rborgesr)
 
 <!--
 **rborgesr/rborgesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
